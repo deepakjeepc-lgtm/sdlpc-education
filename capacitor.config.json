@@ -1,0 +1,9 @@
+{
+  "appId": "com.sdlpc.education",
+  "appName": "SDLPC Education",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
